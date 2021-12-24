@@ -1,2 +1,1 @@
-
-consola.log(:teeees)
+consola.log("teeeest");
